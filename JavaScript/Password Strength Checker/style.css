@@ -1,0 +1,19 @@
+
+
+/* Password Strength Checker  */
+
+.password{
+    font-size:2rem;
+    text-align: center;
+    margin-left: 444px;
+    margin-top: 22px;
+}
+h4{
+    font-size: 2rem;
+    margin-left: 122px;
+    margin-top: 44px;
+}
+
+.input{
+    border:2px solid black;
+}
