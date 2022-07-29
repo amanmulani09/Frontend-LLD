@@ -1,0 +1,78 @@
+.para{
+    width:50%;
+    /* border: 2px solid black; */
+    padding:5px;
+    margin-left: 244px;
+    text-align: justify;
+    margin-top: 71px;
+}
+
+.para p{
+    font-size: 1.2rem;
+}
+
+.btn{
+    padding:5px;
+    background-color: slateblue;
+    color:white;
+    font-size: 1.3rem;
+    border: 2px solid slateblue;
+    border-radius: 7px;
+    margin-left: 263px;
+  
+    margin-top: 33px;
+    cursor: pointer;
+}
+
+.switch {
+    font-size: 1.2rem;
+    padding:7px;
+    background-color: black;
+    color:white;
+    border-radius: 7px;
+   
+ 
+}
+
+.black{
+    background-color: rgb(17, 17, 17);
+    color:white;
+    transition-property: background-color;
+    transition-duration: 1.5s;
+
+}
+
+body{
+    background-color: whitesmoke;
+    transition-property: background-color;
+    transition-duration: 1.5s;
+}
+
+.black button:first-child{
+background-color: white;
+color:black;
+border: 2px solid grey;
+}
+
+
+.icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: black;
+    right: 4rem;
+  
+    position: absolute;
+    cursor: pointer;
+    top:12px;
+    transition-property: background-color;
+    transition-duration: 1s;
+ 
+}
+
+
+.btnchange{
+    background-color: whitesmoke;
+     
+ 
+}
