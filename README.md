@@ -1,2 +1,2 @@
-# Frontend-Mini-Challenges-JS-React-
-This repository contains the tasks projects, I have build using the JavaScript and ReactJS
+# Frontend-LLD-Challenges-JS-React
+This repository contains the LLD Challenges , I have build using the JavaScript and ReactJS
